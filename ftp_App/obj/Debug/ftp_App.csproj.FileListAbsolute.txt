@@ -1,0 +1,6 @@
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\ftp_App\ftp_App\bin\Debug\ftp_App.exe.config
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\ftp_App\ftp_App\obj\Debug\ftp_App.csprojResolveAssemblyReference.cache
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\ftp_App\ftp_App\bin\Debug\ftp_App.exe
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\ftp_App\ftp_App\bin\Debug\ftp_App.pdb
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\ftp_App\ftp_App\obj\Debug\ftp_App.exe
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\ftp_App\ftp_App\obj\Debug\ftp_App.pdb
